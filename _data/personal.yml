@@ -1,14 +1,14 @@
 name: Saba Sajjad
 
-label: UI Designer
+label: PhD in Bioscience looking for full-time opportunities in UK.
 
 picture: /img/profile-picture.jpg
 
-email: ianli@ianli.com
+email: bint.e.sajjad6@gmail.com
 
 phone: 
 
-department: Android UX
+department: Bioscience
 
 institution: Google
 
@@ -20,15 +20,15 @@ profiles:
   - 
     network: Google Scholar
     username:
-    url: http://scholar.google.com/citations?user=JS7sVyQAAAAJ&hl=en
+    url: https://scholar.google.co.kr/citations?user=WqtCgbMAAAAJ&hl=en
   -
     network: LinkedIn
     username:
-    url: https://www.linkedin.com/pub/ian-li/1/681/8b0
+    url: https://www.linkedin.com/in/saba-sajjad-8b595762/
   -
     network: Twitter
-    username: ianli
-    url: https://twitter.com/ianli/
+    username:
+    url: 
 
 intro:
   title: Hello!
